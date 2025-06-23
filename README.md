@@ -34,7 +34,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/binwenwu)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](binwenwu123@outlook.com)
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
+![License](https://img.shields.io/github/license/binwenwu/binwenwu?style=flat)
 
 **🙆 Talking about Personal Stuffs:**
 
