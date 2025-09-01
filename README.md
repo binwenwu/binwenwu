@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/modb_20211019_b7b4804a-3073-11ec-a497-38f9d3cd240d.png" width="500" height="100"/>
+<img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/modb_20211019_b7b4804a-3073-11ec-a497-38f9d3cd240d.png" width="300" height="100"/>
 
 
 ## Hi, I'm NerdNinja, a Developer 🚀 from China.
