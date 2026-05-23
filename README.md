@@ -1,7 +1,7 @@
 <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/20260524021254743.png" width="200%" alt="Hacker" />
 
 # <Hello>你好👋, &nbsp;I'm Binwen Wu</Hello>
-<img width="45%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/git-header.svg" />
+<img width="45%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/20260524021512373.png" />
 
 - 🌱 I'm currently learning Scala and Continuous Integration(CircleCI)
 - 👯 Undergraduate "supper" students certified by OGC experts
