@@ -1,4 +1,4 @@
-# &lt;Hello&gt;你好👋, &nbsp;I'm Binwen Wu&lt;/Hello&gt;
+# <Hello>你好👋, &nbsp;I'm Binwen Wu</Hello>
 <img width="45%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/git-header.svg" />
 
 - 🌱 I'm currently learning Scala and Continuous Integration(CircleCI)
