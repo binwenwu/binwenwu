@@ -17,7 +17,7 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=160&height=32&lines=%E2%96%B6+Tech+Stack_" alt="Stack"/>
 
-<img width="38%" align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+<img width="38%" align="left" alt="Hacker" src="assets/hacker.png" />
 
 **Languages** &nbsp;
 <code><img title="Python" height="22" src="https://cdn.simpleicons.org/python"></code>
@@ -58,7 +58,7 @@
 <code><img title="RabbitMQ" height="22" src="https://cdn.simpleicons.org/rabbitmq"></code>
 <code><img title="Git" height="22" src="https://cdn.simpleicons.org/git"></code>
 
-<br clear="right">
+<br clear="left">
 
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=140&height=32&lines=%E2%96%B6+Stats_" alt="Stats"/>
 
