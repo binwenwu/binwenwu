@@ -1,3 +1,5 @@
+<img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/20260524021254743.png" width="200%" alt="Hacker" />
+
 # <Hello>你好👋, &nbsp;I'm Binwen Wu</Hello>
 <img width="45%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_demo/img/git-header.svg" />
 
@@ -14,9 +16,6 @@
   <a href="https://github.com/binwenwu?tab=followers"><img src="https://img.shields.io/github/followers/binwenwu?style=flat-square&label=Followers&color=6F42C1" alt="Followers" /></a>
   <a href="https://github.com/binwenwu?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Repos" /></a>
 </p>
-
-### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=160&height=32&lines=%E2%96%B6+Tech+Stack_" alt="Stack"/>
-
 
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=140&height=32&lines=%E2%96%B6+Stats_" alt="Stats"/>
 
