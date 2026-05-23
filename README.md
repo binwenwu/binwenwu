@@ -19,12 +19,12 @@
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="34%" align="center" valign="middle">
 
-<img src="assets/hacker.png" width="100%" alt="Hacker" />
+<img src="assets/hacker.png" width="200%" alt="Hacker" />
 
 </td>
-<td width="50%" valign="middle">
+<td width="66%" valign="middle">
 
 **Languages** &nbsp;
 <code><img title="Python" height="22" src="https://cdn.simpleicons.org/python"></code>
@@ -70,6 +70,23 @@
 <code><img title="Kafka" height="22" src="https://cdn.simpleicons.org/apachekafka/8b949e"></code>
 <code><img title="RabbitMQ" height="22" src="https://cdn.simpleicons.org/rabbitmq"></code>
 <code><img title="Git" height="22" src="https://cdn.simpleicons.org/git"></code>
+
+**Cloud** &nbsp;
+<code><img title="AWS" height="22" src="https://cdn.simpleicons.org/amazonwebservices/FF9900"></code>
+<code><img title="Google Cloud" height="22" src="https://cdn.simpleicons.org/googlecloud"></code>
+<code><img title="Azure" height="22" src="https://cdn.simpleicons.org/microsoftazure"></code>
+<code><img title="Aliyun" height="22" src="https://cdn.simpleicons.org/alibabacloud"></code>
+<code><img title="Vercel" height="22" src="https://cdn.simpleicons.org/vercel/8b949e"></code>
+<code><img title="Cloudflare" height="22" src="https://cdn.simpleicons.org/cloudflare"></code>
+
+**DevTools** &nbsp;
+<code><img title="GitHub Actions" height="22" src="https://cdn.simpleicons.org/githubactions"></code>
+<code><img title="Jenkins" height="22" src="https://cdn.simpleicons.org/jenkins"></code>
+<code><img title="Terraform" height="22" src="https://cdn.simpleicons.org/terraform"></code>
+<code><img title="Prometheus" height="22" src="https://cdn.simpleicons.org/prometheus"></code>
+<code><img title="Grafana" height="22" src="https://cdn.simpleicons.org/grafana"></code>
+<code><img title="Postman" height="22" src="https://cdn.simpleicons.org/postman"></code>
+<code><img title="VS Code" height="22" src="https://cdn.simpleicons.org/visualstudiocode"></code>
 
 </td>
 </tr>
