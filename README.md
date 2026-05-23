@@ -10,6 +10,8 @@
 - 🔭 Currently working on **backend systems** and **LLM-powered applications**
 - 🤝 Open to collaborate on **AI Agents · RAG · LLM Infrastructure**
 - 📫 Find me at [tankenqi.cn](https://www.tankenqi.cn/) — I write about backend & AI
+- 🎯 2026 Goal: ship a production-grade open-source LLM agent
+- 🎵 Coffee + lo-fi keeps me shipping past midnight
 
 <br clear="right">
 
