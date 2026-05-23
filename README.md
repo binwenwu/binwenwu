@@ -30,6 +30,8 @@
 <code><img title="Python" height="22" src="https://cdn.simpleicons.org/python"></code>
 <code><img title="Go" height="22" src="https://cdn.simpleicons.org/go"></code>
 <code><img title="Java" height="22" src="https://cdn.simpleicons.org/openjdk/EA2D2E"></code>
+<code><img title="Rust" height="22" src="https://cdn.simpleicons.org/rust/CE412B"></code>
+<code><img title="C++" height="22" src="https://cdn.simpleicons.org/cplusplus"></code>
 <code><img title="TypeScript" height="22" src="https://cdn.simpleicons.org/typescript"></code>
 <code><img title="Shell" height="22" src="https://cdn.simpleicons.org/gnubash/8b949e"></code>
 
@@ -38,6 +40,8 @@
 <code><img title="Django" height="22" src="https://cdn.simpleicons.org/django/44B78B"></code>
 <code><img title="Flask" height="22" src="https://cdn.simpleicons.org/flask/8b949e"></code>
 <code><img title="Spring Boot" height="22" src="https://cdn.simpleicons.org/springboot"></code>
+<code><img title="Pydantic" height="22" src="https://cdn.simpleicons.org/pydantic"></code>
+<code><img title="Celery" height="22" src="https://cdn.simpleicons.org/celery/8b949e"></code>
 <code><img title="GraphQL" height="22" src="https://cdn.simpleicons.org/graphql"></code>
 
 **LLM & AI** &nbsp;
@@ -45,6 +49,8 @@
 <code><img title="Anthropic" height="22" src="https://cdn.simpleicons.org/anthropic/D97757"></code>
 <code><img title="Hugging Face" height="22" src="https://cdn.simpleicons.org/huggingface"></code>
 <code><img title="PyTorch" height="22" src="https://cdn.simpleicons.org/pytorch"></code>
+<code><img title="TensorFlow" height="22" src="https://cdn.simpleicons.org/tensorflow"></code>
+<code><img title="Jupyter" height="22" src="https://cdn.simpleicons.org/jupyter"></code>
 <code><img title="Ollama" height="22" src="https://cdn.simpleicons.org/ollama/8b949e"></code>
 
 **Databases** &nbsp;
