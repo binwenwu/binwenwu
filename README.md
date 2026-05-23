@@ -7,6 +7,9 @@
 - 👯 Undergraduate "supper" students certified by OGC experts
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
+- 🔭 Currently working on **backend systems** and **LLM-powered applications**
+- 🤝 Open to collaborate on **AI Agents · RAG · LLM Infrastructure**
+- 📫 Find me at [tankenqi.cn](https://www.tankenqi.cn/) — I write about backend & AI
 
 <br clear="right">
 
