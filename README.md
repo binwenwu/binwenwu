@@ -15,8 +15,6 @@
 
 <br clear="right">
 
-### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=140&height=32&lines=%E2%96%B6+Stats_" alt="Stats"/>
-
 <p align="center">
   <img height="160" src="https://github-stats-alpha.vercel.app/api?username=binwenwu&cc=1a1b27&tc=70a5fd&ic=bb9af7&bc=1a1b27" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=binwenwu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
