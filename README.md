@@ -19,12 +19,12 @@
 
 <table>
 <tr>
-<td width="55%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="assets/hacker.png" width="100%" alt="Hacker" />
 
 </td>
-<td width="45%" valign="middle">
+<td width="50%" valign="middle">
 
 **Languages** &nbsp;
 <code><img title="Python" height="22" src="https://cdn.simpleicons.org/python"></code>
