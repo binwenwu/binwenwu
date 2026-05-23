@@ -27,7 +27,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=binwenwu&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=4&margin-h=4" alt="Trophies" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&height=40&lines=%3E+stay+curious%2C+keep+shipping_" alt="Footer" />
-</p>
