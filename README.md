@@ -18,17 +18,57 @@
 - Talk to me about **Python · FastAPI · LangChain · System Design**
 - Blog → **[tankenqi.cn](https://www.tankenqi.cn/)**
 
+
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=160&height=32&lines=%E2%96%B6+Tech+Stack_" alt="Stack"/>
 
-**Languages** &nbsp; ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <b>Languages</b>&nbsp;&nbsp;
+  <code><img title="Python" height="22" src="https://cdn.simpleicons.org/python"></code>
+  <code><img title="Go" height="22" src="https://cdn.simpleicons.org/go"></code>
+  <code><img title="Java" height="22" src="https://cdn.simpleicons.org/openjdk/EA2D2E"></code>
+  <code><img title="TypeScript" height="22" src="https://cdn.simpleicons.org/typescript"></code>
+  <code><img title="Shell" height="22" src="https://cdn.simpleicons.org/gnubash/8b949e"></code>
+</p>
 
-**Backend** &nbsp; ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat-square&logo=googlecloud&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<p align="center">
+  <b>Backend</b>&nbsp;&nbsp;
+  <code><img title="FastAPI" height="22" src="https://cdn.simpleicons.org/fastapi"></code>
+  <code><img title="Django" height="22" src="https://cdn.simpleicons.org/django/44B78B"></code>
+  <code><img title="Flask" height="22" src="https://cdn.simpleicons.org/flask/8b949e"></code>
+  <code><img title="Spring Boot" height="22" src="https://cdn.simpleicons.org/springboot"></code>
+  <code><img title="GraphQL" height="22" src="https://cdn.simpleicons.org/graphql"></code>
+</p>
 
-**LLM & AI** &nbsp; ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-6E47BD?style=flat-square&logo=meta&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![vLLM](https://img.shields.io/badge/-vLLM-FF6F00?style=flat-square&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+<p align="center">
+  <b>LLM&nbsp;&amp;&nbsp;AI</b>&nbsp;&nbsp;
+  <code><img title="LangChain" height="22" src="https://cdn.simpleicons.org/langchain"></code>
+  <code><img title="Anthropic" height="22" src="https://cdn.simpleicons.org/anthropic/D97757"></code>
+  <code><img title="Hugging Face" height="22" src="https://cdn.simpleicons.org/huggingface"></code>
+  <code><img title="PyTorch" height="22" src="https://cdn.simpleicons.org/pytorch"></code>
+  <code><img title="Ollama" height="22" src="https://cdn.simpleicons.org/ollama/8b949e"></code>
+</p>
 
-**Databases** &nbsp; ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Milvus](https://img.shields.io/badge/-Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white) ![Qdrant](https://img.shields.io/badge/-Qdrant-DC382D?style=flat-square&logoColor=white)
+<p align="center">
+  <b>Databases</b>&nbsp;&nbsp;
+  <code><img title="PostgreSQL" height="22" src="https://cdn.simpleicons.org/postgresql"></code>
+  <code><img title="MySQL" height="22" src="https://cdn.simpleicons.org/mysql"></code>
+  <code><img title="Redis" height="22" src="https://cdn.simpleicons.org/redis"></code>
+  <code><img title="MongoDB" height="22" src="https://cdn.simpleicons.org/mongodb"></code>
+  <code><img title="Elasticsearch" height="22" src="https://cdn.simpleicons.org/elasticsearch"></code>
+  <code><img title="Milvus" height="22" src="https://cdn.simpleicons.org/milvus"></code>
+  <code><img title="Qdrant" height="22" src="https://cdn.simpleicons.org/qdrant/DC382D"></code>
+</p>
 
-**DevOps** &nbsp; ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <b>DevOps</b>&nbsp;&nbsp;
+  <code><img title="Docker" height="22" src="https://cdn.simpleicons.org/docker"></code>
+  <code><img title="Kubernetes" height="22" src="https://cdn.simpleicons.org/kubernetes"></code>
+  <code><img title="Linux" height="22" src="https://cdn.simpleicons.org/linux/FCC624"></code>
+  <code><img title="Nginx" height="22" src="https://cdn.simpleicons.org/nginx"></code>
+  <code><img title="Kafka" height="22" src="https://cdn.simpleicons.org/apachekafka/8b949e"></code>
+  <code><img title="RabbitMQ" height="22" src="https://cdn.simpleicons.org/rabbitmq"></code>
+  <code><img title="Git" height="22" src="https://cdn.simpleicons.org/git"></code>
+</p>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=140&height=32&lines=%E2%96%B6+Stats_" alt="Stats"/>
 
