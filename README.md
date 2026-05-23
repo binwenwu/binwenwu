@@ -17,7 +17,14 @@
 
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=160&height=32&lines=%E2%96%B6+Tech+Stack_" alt="Stack"/>
 
-<img width="38%" align="left" alt="Hacker" src="assets/hacker.png" />
+<table>
+<tr>
+<td width="34%" align="center" valign="middle">
+
+<img src="assets/hacker.png" width="100%" alt="Hacker" />
+
+</td>
+<td width="66%" valign="middle">
 
 **Languages** &nbsp;
 <code><img title="Python" height="22" src="https://cdn.simpleicons.org/python"></code>
@@ -58,7 +65,9 @@
 <code><img title="RabbitMQ" height="22" src="https://cdn.simpleicons.org/rabbitmq"></code>
 <code><img title="Git" height="22" src="https://cdn.simpleicons.org/git"></code>
 
-<br clear="left">
+</td>
+</tr>
+</table>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=140&height=32&lines=%E2%96%B6+Stats_" alt="Stats"/>
 
