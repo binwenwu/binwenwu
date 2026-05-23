@@ -15,13 +15,6 @@
 
 <br clear="right">
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=binwenwu&style=flat-square&color=6F42C1&label=Profile+Views" alt="Profile views" />
-  <a href="https://www.tankenqi.cn/"><img src="https://img.shields.io/badge/Blog-tankenqi.cn-1F8ACB?style=flat-square&logo=hugo&logoColor=white" alt="Blog" /></a>
-  <a href="https://github.com/binwenwu?tab=followers"><img src="https://img.shields.io/github/followers/binwenwu?style=flat-square&label=Followers&color=6F42C1" alt="Followers" /></a>
-  <a href="https://github.com/binwenwu?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Repos" /></a>
-</p>
-
 ### <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1&pause=99999&color=BB9AF7&width=140&height=32&lines=%E2%96%B6+Stats_" alt="Stats"/>
 
 <p align="center">
