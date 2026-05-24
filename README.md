@@ -1,17 +1,32 @@
 <img src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/20260524104640574.png" width="200%" alt="Hacker" />
 
 # <Hello>你好👋, &nbsp;I'm Binwen Wu</Hello>
-<img width="45%" align="right" alt="Github" src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/20260524021512373.png" />
+<table>
+  <tr>
+    <td width="55%" valign="middle">
 
-- 🌱 I'm currently learning Scala and Continuous Integration(CircleCI)
-- 👯 Undergraduate "supper" students certified by OGC experts
-- 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I have a degree in Remote sensing science and technology
-- 🔭 Currently working on **backend systems** and **LLM-powered applications**
-- 🤝 Open to collaborate on **AI Agents · RAG · LLM Infrastructure**
-- 📫 Find me at [tankenqi.cn](https://www.tankenqi.cn/) — I write about backend & AI
-- 🎯 2026 Goal: ship a production-grade open-source LLM agent
-- 🎵 Coffee + lo-fi keeps me shipping past midnight
+<ul>
+  <li>🌱 I'm currently learning Scala and Continuous Integration(CircleCI)</li>
+  <li>👯 Undergraduate "super" students certified by OGC experts</li>
+  <li>💬 Ask me about anything, I am happy to help</li>
+  <li>⚡️ Fun-Fact: I have a degree in Remote sensing science and technology</li>
+  <li>🔭 Currently working on <strong>backend systems</strong> and <strong>LLM-powered applications</strong></li>
+  <li>🤝 Open to collaborate on <strong>AI Agents · RAG · LLM Infrastructure</strong></li>
+  <li>📫 Find me at <a href="https://www.tankenqi.cn/">tankenqi.cn</a> — I write about backend & AI</li>
+  <li>🎯 2026 Goal: ship a production-grade open-source LLM agent</li>
+  <li>🎵 Coffee + lo-fi keeps me shipping past midnight</li>
+</ul>
+
+  </td>
+  <td width="45%" valign="middle" align="center">
+    <img
+      alt="Github"
+      src="https://cdn.jsdelivr.net/gh/binwenwu/picgo_02/img/20260524021512373.png"
+      width="100%"
+    />
+  </td>
+  </tr>
+</table>
 
 <br clear="right">
 
