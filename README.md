@@ -34,11 +34,3 @@
   <img height="160" src="https://github-stats-alpha.vercel.app/api?username=binwenwu&cc=1a1b27&tc=70a5fd&ic=bb9af7&bc=1a1b27" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=binwenwu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=tokyo-night&hide_border=true&area=true&height=200" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=binwenwu&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=4&margin-h=4" alt="Trophies" />
-</p>
